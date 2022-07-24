@@ -80,7 +80,7 @@ body {
 .section--01 {
   height: 100vh;
   color: #0e0124;
-  background-image: url("imgs/meteor.svg");
+  background-image: url("meteor.svg");
   background-color: rgba(3, 2, 20, 0.911);
 
   display: flex;
@@ -89,7 +89,7 @@ body {
 }
 .section--02 {
   height: 100vh;
-  /* background-image: url("imgs/section-2.svg"); */
+  /* background-image: url("section-2.svg"); */
   /* background-color: black; */
   color: white;
 }
@@ -298,7 +298,7 @@ html::-webkit-scrollbar-thumb {
 .section--03 {
   height: 100vh;
   color: #0e0124;
-  /* background-image: url("imgs/sec--004.svg"); */
+  /* background-image: url("sec--004.svg"); */
   background-color: rgba(3, 2, 20, 0.911);
   display: flex;
   justify-content: center;
